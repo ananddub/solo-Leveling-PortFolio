@@ -22,24 +22,20 @@ function Contact() {
 
                             </> :
                             <>
-                                vivekprajapati9986@yahoo.com
+                               duanand6@gmail.com
                             </>
                     }
                 </a>
             </div>
             <div className="contact-footer">
-                <a href="https://codepen.io/Vivekp1118/">
-                    <i class="fa-brands fa-codepen contact-footer-icon" ></i>
-                </a>
-                <a href="https://github.com/vivekp1118">
+             
+                <a href="https://github.com/ananddub">
                     <i class="fa-brands fa-github contact-footer-icon" ></i>
                 </a>
-                <a href="https://www.linkedin.com/in/vivekp1118/">
+                <a href="https://www.linkedin.com/in/anand-dubey-33a972257/">
                     <i class="fa-brands fa-linkedin contact-footer-icon" ></i>
                 </a>
-                <a href="https://twitter.com/vivekp1118">
-                    <i class="fa-brands fa-twitter contact-footer-icon" ></i>
-                </a>
+              
             </div>
 
             {answerBoxOpen.findMode && <Puzzle
